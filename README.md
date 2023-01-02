@@ -2,16 +2,16 @@
 
 Another fork of lumafix  
 
-:red_circle: Still WORK IN PROGRESS :red_circle:  
+:construction: Still WORK IN PROGRESS :construction:  
 
 Special design for motherboard C64 with ZIF support  
 
-The height is too high to place the VIC-II with ZIF support and the lumafix 
+The height is too high to place the VIC-II with ZIF support and the lumafix :collision: 
 
 This version allows to move the VIC-II in a free area outside the keyboard  
 
 ---
-Thanks for inspiration TEBL  
+Thanks for inspiration TEBL :wink:  
 https://github.com/tebl/C64-Lumafix  
 
 ![relocator](https://github.com/Jean-Fred64/C64_lumafix_relocator/blob/main/IMG/Lumafix%20relocator%20v31_12_2022.png)
